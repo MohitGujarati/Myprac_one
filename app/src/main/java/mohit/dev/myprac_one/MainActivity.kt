@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
                 )
             )
 
-            ed_name.text=""
+            ed_name.text="hello"
 
             loadrec(recdb)
 
